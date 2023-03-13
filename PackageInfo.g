@@ -9,10 +9,10 @@
 SetPackageInfo( rec(
 
 PackageName := "GRPS382",
-Subtitle := "Provides access to the groups of order 3^8*2",
-Version := "0.1",
+Subtitle := "Library of the groups of order 3^8*2",
+Version := "0.0.1",
 Date := "14/05/2022", # dd/mm/yyyy format
-License := "GPL-2.0-or-later",
+License := "Artistic-2.0",
 
 Persons := [
   rec(
