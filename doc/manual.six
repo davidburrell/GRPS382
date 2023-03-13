@@ -3,16 +3,9 @@ HELPBOOKINFOSIXTMP := rec(
 encoding := "UTF-8",
 bookname := "GRPS382",
 entries :=
-[ [ "Title page", ".", [ 0, 0, 0 ], 1, 1, "title page", "X7D2C85EC87DD46E5" ], 
-  [ "Table of Contents", ".-1", [ 0, 0, 1 ], 24, 2, "table of contents", 
-      "X8537FEB07AF2BEC8" ], 
-  [ "\033[1X\033[33X\033[0;-2YGroups of Order 3^8*2\033[133X\033[101X", "1", [ 1, 0, 0 ], 
-      1, 3, "groups of order 3^8*2", "X843D1A45872F92A9" ], 
-  [ "\033[1X\033[33X\033[0;-2YOverview\033[133X\033[101X", "1.1", [ 1, 1, 0 ], 4, 3, 
-      "overview", "X8389AD927B74BA4A" ], 
-  [ "\033[1X\033[33X\033[0;-2YGeneration\033[133X\033[101X", "1.2", [ 1, 2, 0 ], 11, 3, 
-      "generation", "X825BC29B84B30FDB" ], 
-  [ "\033[1X\033[33X\033[0;-2YOrdering\033[133X\033[101X", "1.3", [ 1, 3, 0 ], 16, 3, 
-      "ordering", "X7A4683BF79417A7A" ], 
+[ [ "Title page", ".", [ 0, 0, 0 ], 1, 1, "title page", "X7D2C85EC87DD46E5" ], [ "Table of Contents", ".-1", [ 0, 0, 1 ], 24, 2, "table of contents", "X8537FEB07AF2BEC8" ], 
+  [ "\033[1X\033[33X\033[0;-2YGroups of Order 3^8*2\033[133X\033[101X", "1", [ 1, 0, 0 ], 1, 3, "groups of order 3^8*2", "X843D1A45872F92A9" ], 
+  [ "\033[1X\033[33X\033[0;-2YOverview\033[133X\033[101X", "1.1", [ 1, 1, 0 ], 4, 3, "overview", "X8389AD927B74BA4A" ], [ "\033[1X\033[33X\033[0;-2YGeneration\033[133X\033[101X", "1.2", 
+      [ 1, 2, 0 ], 11, 3, "generation", "X825BC29B84B30FDB" ], [ "\033[1X\033[33X\033[0;-2YOrdering\033[133X\033[101X", "1.3", [ 1, 3, 0 ], 16, 3, "ordering", "X7A4683BF79417A7A" ], 
   [ "Index", "ind", [ "Ind", 0, 0 ], 1, 4, "index", "X83A0356F839C696F" ] ]
 );
