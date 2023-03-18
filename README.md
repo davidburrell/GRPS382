@@ -1,18 +1,28 @@
 # The GAP package GRPS382
 
-TODO: add a description of your package; perhaps also instructions how how to
-install and use it, resp. where to find out more
+### Description:
+--------------------
 
+This package provides:
+
+ - Access to the groups of order $13122$ ($3^8*2$)
+
+For further information see:
+   - [Documentation](https://davidburrell.github.io/GRPS382/doc/chap0.html)
+   - [PackageSite](https://davidburrell.github.io/GRPS382/)
+
+
+### Installation
+--------------------
+
+1. Clone the repo or download a version via releases and unpack to the "pkg" subdirectory of your GAP installation (i.e. ~/gap/pkg) making sure to name the folder GRPS382
 
 ## Contact
+For questions, comments and or issues contact [David Burrell](Davidburrell@ufl.edu)
 
-TODO: add info on how to contact you and/or how to report issues with your
-package
 
 ## License
+The GRPS1024 is free software distributed under the [Artistic License 2.0](https://opensource.org/licenses/Artistic-2.0).
 
-TODO: Provide information on the license of your package. A license is
-important as it determines who has a right to distribute your package. The
-"default" license to consider is GNU General Public License v2 or later, as
-that is the license of GAP itself.
-# GRPS382
+For details see the files `LICENSE` and `COPYRIGHT.md`.
+
