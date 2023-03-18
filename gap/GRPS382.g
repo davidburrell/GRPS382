@@ -108,9 +108,9 @@ SELECT_SMALL_GROUPS_FUNCS[ pos_3_8_2 ] := SELECT_SMALL_GROUPS_FUNCS[ 11 ];
 SMALL_GROUPS_INFORMATION[ pos_3_8_2 ] := function( size, inforec, num )
     Print( " \n");
 Print("##################  Groups Information  #########################\n\n");
-Print( "There are 1897763 groups of order 13122\n");
-Print( "The nilpotent groups come first sorted by their Sylow 3-subgroup. The non-nilpotent groups are sorted first by their Sylow-3 subgroup and then via the output of the cyclic-split extension algorithm.\n");
+Print( "There are 1897763 groups of order 13122\n\n");
+Print( "The nilpotent groups come first sorted by their Sylow 3-subgroup. The non-nilpotent groups are sorted first by their Sylow-3 subgroup and then via the output of the cyclic-split extension algorithm.\n\n");
 Print( "1 - 1396077 are the nilpotent groups.\n");
-Print( "1396078 - 1897763 are non-nilpotent.\n");
+Print( "1396078 - 1897763 are non-nilpotent.\n\n");
 Print( "This database was created by David Burrell (2022).\n");
 end;

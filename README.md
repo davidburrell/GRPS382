@@ -15,7 +15,7 @@ For further information see:
 ### Installation
 --------------------
 
-1. Clone the repo or download a version via releases and unpack to the "pkg" subdirectory of your GAP installation (i.e. ~/gap/pkg) making sure to name the folder GRPS382
+1. Clone the repo or download a version via releases and unpack to the "pkg" subdirectory of your GAP installation (i.e. ~/gap/pkg). 
 
 ## Contact
 For questions, comments and or issues contact [David Burrell](Davidburrell@ufl.edu)
