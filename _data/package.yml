@@ -45,11 +45,14 @@ citeas: |
 bibtex: |
     @misc{ GRPS3820.0.1,
       author =           {Burrell, D.},
-      title =            {{GRPS382}, Library of the groups of order 3\texttt{\symbol{94}}8*2, {V}ersion 0.0.1},
+      title =            {{GRPS382},  Library  of the groups of order 3\texttt{\symbol{94}}8*2,
+                          {V}ersion 0.0.1},
       month =            {May},
       year =             {2022},
       note =             {GAP package},
-      howpublished =     {\href {https://davidburrell.github.io/GRPS382/} {\texttt{https://davidburrell.github.io/}\discretionary {}{}{}\texttt{GRPS382/}}},
+      howpublished =     {\href                       {https://davidburrell.github.io/GRPS382/}
+                          {\texttt{https://davidburrell.github.io/}\discretionary
+                          {}{}{}\texttt{GRPS382/}}},
       printedkey =       {Bur22}
     }
 

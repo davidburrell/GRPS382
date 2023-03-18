@@ -8,13 +8,3 @@
   small  groups  library. Once the package is loaded the groups of order 3^8*2
   may be accessed via [10XSmallGroups(3^8*2,n)[110X.[133X
   
-  
-  [1X1.2 [33X[0;0YGeneration[133X[101X
-  
-  [33X[0;0YTODO: Describe how these groups were created[133X
-  
-  
-  [1X1.3 [33X[0;0YOrdering[133X[101X
-  
-  [33X[0;0YTODO: Describe the ordering of these groups[133X
-  
