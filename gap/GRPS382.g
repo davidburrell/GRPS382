@@ -3,13 +3,6 @@
 #!
 #! This package gives access to all of the groups of order 3^8*2 through the small groups library. Once the package is loaded the groups of order 3^8*2 may be accessed via <C>SmallGroups(3^8*2,n)</C>.
 #!
-#! @Section Generation
-#! TODO: Describe how these groups were created
-#!
-#! @Section Ordering
-#!
-#! TODO: Describe the ordering of these groups
-#!
 
 layer_3_8_2 := Length(SMALL_AVAILABLE_FUNCS)+1;
 
