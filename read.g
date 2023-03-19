@@ -6,3 +6,4 @@
 
 
 ReadPackage( "GRPS382", "gap/GRPS382.g");
+ReadPackage( "GRPS382", "gap/GRPS372.g");
