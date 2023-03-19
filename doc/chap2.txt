@@ -1,0 +1,10 @@
+  
+  [1X2 [33X[0;0YGroups of Order 3^8*2[133X[101X
+  
+  
+  [1X2.1 [33X[0;0YOverview[133X[101X
+  
+  [33X[0;0YThis  package  gives  access to all of the groups of order 3^8*2 through the
+  small  groups  library. Once the package is loaded the groups of order 3^8*2
+  may be accessed via [10XSmallGroups(3^8*2,n)[110X.[133X
+  

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This is an automatically generated file. -->
+<Chapter Label="Chapter_Groups_of_Order_372">
+<Heading>Groups of Order 3^7*2</Heading>
+
+<Section Label="Chapter_Groups_of_Order_372_Section_Overview">
+<Heading>Overview</Heading>
+
+<P/>
+ This package gives access to all of the groups of order 3^7*2 through the small groups library. Once the package is loaded the groups of order 3^7*2 may be accessed via <C>SmallGroups(3^7*2,n)</C>.
+<P/>
+</Section>
+
+
+</Chapter>
+
